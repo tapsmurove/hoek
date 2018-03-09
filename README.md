@@ -10,6 +10,9 @@ Lead Maintainer: [Nathan LaFreniere](https://github.com/nlf)
 
 **hoek** is sponsored by [&yet](https://andyet.com)
 
+## Modifications
+This fork of Hoek has been modified to be suitable for minification during the React build process.  
+
 ## Usage
 
 The *Hoek* library contains some common functions used within the hapi ecosystem. It comes with useful methods for Arrays (clone, merge, applyToDefaults), Objects (removeKeys, copy), Asserting and more.
